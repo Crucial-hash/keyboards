@@ -5,4 +5,4 @@ This website displays keyboard information in raw text format.
 
 ![](https://raw.githubusercontent.com/Crucial-hash/keyboards/main/image.png)
 
-## [Preview](https://crucial-hash.github.io/keyboards/)
+## [Preview](https://crucial.ink/keyboards/)
